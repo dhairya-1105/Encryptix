@@ -1,2 +1,2 @@
 # Encryptix
-Internship tasks
+Machine Learning tasks for the Encryptix Internship
